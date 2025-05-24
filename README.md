@@ -1,11 +1,11 @@
 # Snake Game- Simple Game App
 Snake Game crated by JavaScript and HTML and responsive UI using CSS.
 
-##features
+## Features
 This is not fully Developed.If anyone want use only logic The you should use this.
--> Common Snake Game.
--> if in Computer Direction  handled by Arrow Key.
--> if in Mobile, Tablet Direction handled By Arrow Button
+- Common Snake Game.
+- if in Computer Direction  handled by Arrow Key.
+- if in Mobile, Tablet Direction handled By Arrow Button
 
 ## 🛠 Tech Stack
 
